@@ -4,7 +4,8 @@ Git je sistem za kontrolu verzija. On nam pomaže da pratimo sve promene nekome 
 Šta to Git radi?
 * On omogućava praćenje istorije promena, kako lokalno tako i u zajedničkom radnom okruženju. Prednost ovog praćenja je u tome što znamo šta je menjano, kada je menjano, ko ga je menjao i zašto ga je menjao. Dobra strana svega je što tako praćene izmene na kraju mogu biti spojene u jednu istoriju.
 * S obzirom da je u pitanju distribuirani sistem za kontrolu verzije, svaki računar poseduje ceo repozitorijum koji se čuva lokalno, dok server služi za razmenu i saradnju između korisnika. Svaki računar ima kopiju podataka koja se čuva lokalno i koja se sinhronizuje sa serverom.
-`Važno je da odmah napomenemo da Git može u potpunosti biti korišćen od strane pojedinca, bez potrebe da se ikada konektuje na server i sarađuje sa drugima, ali da on to može jednostavno učiniti kada god mu to bude potrebno.`
+
+Važno je da odmah napomenemo da Git može u potpunosti biti korišćen od strane pojedinca, bez potrebe da se ikada konektuje na server i sarađuje sa drugima, ali da on to može jednostavno učiniti kada god mu to bude potrebno.`
 
 U narednim paragrafima ću vam pokazati kako da započnemo sa korišćenjem Git-a:
 # Git konfiguracija
